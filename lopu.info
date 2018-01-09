@@ -1,0 +1,5 @@
+name = Lopu
+description = Custom login dialog use ctools modal
+core = 7.x
+package = Other
+dependencies[] = ctools
